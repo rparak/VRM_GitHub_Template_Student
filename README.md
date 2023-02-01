@@ -1,4 +1,4 @@
-# VRM (Programming for Robots and Manipulators) : GitHub Student Template
+# VRM (Programming for Robots and Manipulators) : Template for Student Projects
 GitHub repository template for student projects in the university course VRM (Programming for Robots and Manipulators).
 
 ## Requirements:
