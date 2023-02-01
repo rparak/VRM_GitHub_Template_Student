@@ -28,6 +28,8 @@ It will be possible to create your own production line design, but in accordance
 **Note 2:**
 It will be possible to create a team (max. 3 members), but with a reduction of the maximum score
 
+Link: [Project 1](https://github.com/rparak/VRM_GitHub_Template_Student/tree/main/Project_1)
+
 <p align="center">
 <img src=https://github.com/rparak/VRM_GitHub_Template_Student/blob/main/images/project_PF.png width="700" height="375">
 </p>
@@ -38,6 +40,8 @@ The team project focuses mainly on the topic of robotic control using software s
 
 **Note:** 
 It will be possible to create your own project theme, but in accordance with certain principles!
+
+Link: [Project 1](https://github.com/rparak/VRM_GitHub_Template_Student/tree/main/Project_2)
 
 <p align="center">
 <img src=https://github.com/rparak/VRM_GitHub_Template_Student/blob/main/images/project_2b.png width="700" height="375">
