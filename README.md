@@ -26,12 +26,20 @@ It will be possible to create your own production line design, but in accordance
 **Note 2:**
 It will be possible to create a team (max. 3 members), but with a reduction of the maximum score
 
+<p align="center">
+<img src=https://github.com/rparak/VRM_GitHub_Template_Student/blob/main/images/project_PF.png width="700" height="375">
+</p>
+
 ## Description - Project 2:
 
 The team project focuses mainly on the topic of robotic control using software such as Unity3D, ROS, Robot Studio ABB, B&R Automation Studio, and others. The team with a maximum of 3 to 4 members will create the appropriate robotic application and present the project in the last week of the semester. A more detaileddescription of individual projects will be discussed with the lecturer.
 
 **Note:** 
 It will be possible to create your own project theme, but in accordance with certain principles!
+
+<p align="center">
+<img src=https://github.com/rparak/VRM_GitHub_Template_Student/blob/main/images/project_2b.png width="700" height="375">
+</p>
 
 ## Contact Info:
 Roman.Parak@outlook.com
