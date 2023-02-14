@@ -49,7 +49,7 @@ Link: [Project 1](https://github.com/rparak/VRM_GitHub_Template_Student/tree/mai
 
 ## Activity:
 
-Descriptions of small projects during the semester.
+Descriptions and solutions of small projects implemented during the semester.
 
 Link: [Activity](https://github.com/rparak/VRM_GitHub_Template_Student/tree/main/Activity)
 
