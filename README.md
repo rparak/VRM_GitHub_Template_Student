@@ -47,6 +47,12 @@ Link: [Project 1](https://github.com/rparak/VRM_GitHub_Template_Student/tree/mai
 <img src=https://github.com/rparak/VRM_GitHub_Template_Student/blob/main/images/project_2b.png width="700" height="375">
 </p>
 
+## Activity:
+
+Descriptions of small projects during the semester.
+
+Link: [Activity](https://github.com/rparak/VRM_GitHub_Template_Student/tree/main/Activity)
+
 ## Contact Info:
 Roman.Parak@outlook.com
 
